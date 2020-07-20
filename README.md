@@ -1,12 +1,12 @@
 ## Purpose of this analysis.
 
 
--  *Repeat School district analysis that were done in the module and observe additional changes to identify evidence of academic dishonesty.
+-  Repeat School district analysis that were done in the module and observe additional changes to identify evidence of academic dishonesty.
 
 -  I will do this using Jupyter Notebook and the Pandas library, to read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data to tell a story.
    
 
-### Results:
+## Results:
 
 
 1. **How is the district summary affected?**
